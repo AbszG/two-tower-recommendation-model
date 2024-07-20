@@ -1,8 +1,7 @@
-# data-science-projects
+# two_tower_recommendation_model
 
-**Two_Tower_Recommendation_Model**
 
-Modeled using pytorch
+Modeled using **pytorch**
 
 
 **Sources** :
